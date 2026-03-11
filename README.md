@@ -1,39 +1,38 @@
-# development-git-introduction
 
-Repository ini dibuat untuk memenuhi **Tugas 1** pada mata kuliah **Software Development**.
+# Pengantar Git Pengembangan
 
-### Identitas Mahasiswa
+Repositori ini dibuat untuk memenuhi Tugas 1 pada mata kuliah Pengembangan Perangkat Lunak
 
-- **Nama:** Krisna Mukti
-- **NPM:** 2313020032
-- **Mata Kuliah:** Software Development
+## Identitas Mahasiswa
+
+- Nama : Krisna Mukti  
+- NPM : 2313020034  
+- Mata Kuliah: Pengembangan Perangkat Lunak 
 
 ---
 
-<!-- ## 1. Deskripsi Tugas
+## 1. Deskripsi Tugas
+Dalam pengembangan perangkat lunak modern, penggunaan Version Control System (VCS) merupakan keterampilan dasar yang wajib dimiliki oleh setiap pengembang. Melalui tugas ini, mahasiswa mempelajari penggunaan dasar Git dan platform kolaborasi GitHub secara mandiri.
 
-Dalam pengembangan perangkat lunak modern, penggunaan _Version Control System_ (VCS) merupakan keterampilan dasar yang wajib dimiliki oleh setiap pengembang. Melalui tugas ini, mahasiswa mempelajari penggunaan dasar **Git** dan platform kolaborasi **GitHub** secara mandiri. Praktik yang dilakukan meliputi pembuatan repositori, pengelolaan perubahan melalui _commit_, hingga sinkronisasi data ke GitHub. Tugas ini bertujuan agar mahasiswa memahami konsep dasar _version control_ serta terbiasa menggunakannya sebagai alat dokumentasi dan kolaborasi profesional.
+Praktik yang dilakukan meliputi pembuatan repository, pengelolaan perubahan melalui commit, hingga sinkronisasi data ke GitHub. Tugas ini bertujuan agar mahasiswa memahami konsep dasar version control serta terbiasa menggunakannya sebagai alat dokumentasi dan kolaborasi profesional.
 
 ## 2. Tujuan Pembelajaran
-
 Pengerjaan tugas ini mencakup beberapa poin tujuan pembelajaran utama, antara lain:
 
-- **Konsep Dasar:** Memahami sistem _version control_ dan fungsi Git dalam mencatat riwayat perubahan kode.
-- **Praktik Mandiri:** Mampu membuat dan mengelola repositori proyek secara mandiri di GitHub.
-- **Manajemen Perubahan:** Melakukan _commit_ perubahan file dan melakukan _push_ ke server GitHub.
-- **Komunikasi & Dokumentasi:** Menulis pesan _commit_ yang informatif serta menyusun dokumentasi proyek menggunakan `README.md`.
+- Memahami sistem version control dan fungsi Git dalam mencatat riwayat perubahan kode.
+- Mampu membuat dan mengelola repository proyek secara mandiri di GitHub.
+- Melakukan perubahan file dan melakukan push ke server GitHub.
+- Menulis commit message yang informatif serta menyusun dokumentasi proyek menggunakan README.md.
 
-## 3. Tools yang Digunakan
+## 3. Alat yang Digunakan
+Dalam penyelesaian tugas ini digunakan beberapa perangkat lunak berikut:
 
-[]Dalam penyelesaian tugas ini, digunakan perangkat lunak standar industri sebagai berikut:
-
-- **Git**: Sebagai _version control system_ utama.
-- **GitHub**: Sebagai platform _cloud_ untuk penyimpanan repositori secara _online_.
-- **Visual Studio Code (VS Code)**: Sebagai _text editor_ utama untuk pengodean dan manajemen Git.
+- Git
+- GitHub
+- Visual Studio Code (VS Code)
 
 ## 4. Daftar File dalam Repository
+Berikut adalah struktur file yang terdapat dalam repository ini:
 
-Berikut adalah struktur file minimal yang dikelola dalam repositori ini:
-
-- `README.md`: File dokumentasi utama yang berisi penjelasan proyek, identitas, dan informasi teknis.
-- `perkenalan.md`: File berisi biodata mahasiswa, minat di bidang IT, serta harapan terhadap mata kuliah. -->
+- README.md → Dokumentasi utama repository
+- perkenalan.md → Berisi biodata mahasiswa dan minat di bidang IT
